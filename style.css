@@ -1,6 +1,6 @@
 @font-face {
   font-family: "なごみ極細ゴシック";
-  src: "https://github.com/varde-jp/portfolio/blob/main/NagomiGokubosoGothic-ExtraLight.otf?raw=true";
+  src: url("https://github.com/varde-jp/portfolio/blob/main/NagomiGokubosoGothic-ExtraLight.otf?raw=true");
 }
 
 .wrap {
