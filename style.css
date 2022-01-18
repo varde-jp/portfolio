@@ -450,6 +450,11 @@ footer {
 
 .about-text {
   margin: 70px auto 70px auto;
+  text-align: left;
+}
+  
+.about-text p {
+  margin-left: 0;
 }
 
 #works .works-contents {
