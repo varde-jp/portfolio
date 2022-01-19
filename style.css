@@ -205,6 +205,15 @@ html {
   height: auto;
 }
 
+.click a {
+  text-decoration: none;
+  color: rgb(95, 65, 75);
+  font-size: 1rem;
+  font-family: "なごみ極細ゴシック";
+  line-height: 30px;
+  letter-spacing: 2px;
+}
+
 /* contact */
 #contact {
   margin: 80px auto 0 auto;
@@ -452,7 +461,7 @@ footer {
   margin: 70px auto 70px auto;
   text-align: left;
 }
-  
+
 .about-text p {
   margin-left: 0;
 }
@@ -641,7 +650,5 @@ footer {
     height: 170px;
 }
 }
-
-
 
 
