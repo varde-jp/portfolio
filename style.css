@@ -120,15 +120,6 @@ html {
   text-align: center;
 }
 
-.main-h4 {
-  font-size: 32px;
-  color: #5f414b;
-  border-bottom: 1px solid #8b008b;
-  width: 180px;
-  margin: 0 auto;
-  text-align: center;
-}
-
 /* about */
 #about {
   margin: 80px auto 0 auto;
@@ -192,6 +183,15 @@ html {
 
 #works .main-h2 {
   margin-bottom: 80px;
+}
+
+.works-p {
+  text-align: center;
+  color: rgb(95, 65, 75);
+  font-size: 1rem;
+  font-family: "なごみ極細ゴシック";
+  line-height: 30px;
+  letter-spacing: 2px;
 }
 
 .web-design {
