@@ -491,6 +491,12 @@ footer {
 #works .works-contents {
   height: 406px;
 }
+  
+ .video-cntents {
+  max-width: 550px;
+  width: 100%;
+  padding-top: 40%;
+}
 
 .contact-contents {
   justify-content: space-between;
@@ -524,7 +530,13 @@ footer {
 
   @media screen and (max-width:790px){
     #works .works-contents {
-      height: 450px;
+      height: 420px;
+  }
+    
+    .video-cntents {
+    max-width: 500px;
+    width: 100%;
+    padding-top: 48%;
   }
 }
   
@@ -590,6 +602,12 @@ footer {
 
   #works .works-contents {
     height: 336px;
+  }
+  
+  .video-cntents {
+    max-width: 250px;
+    width: 100%;
+    padding-top: 58%;
   }
 
   #works .main-h2 {
